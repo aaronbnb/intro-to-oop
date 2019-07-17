@@ -19,7 +19,9 @@ The `<abbr>` is used with a `title` attribute to associate a full description wi
 To provide a full description of an abbreviation/acronym, with its first use, use an `<abbr>` to mark up the abbreviation, which provides a hint to user agents on how to announce/display the content. The `<abbr>` should be followed by its full description in plain text.
 
 ```html
-<p><abbr>IMHO</abbr> (In my humble opinion) websites sometimes makes assumptions about how much their visitors know about a given topic or industry.</p>
-<p>By providing a plain text expansion besides the acronyms, myself and probably others, are less confused by the jargon. Thus improving usability and <abbr>a11y</abbr> (accessibility).
+<p><abbr>IMHO</abbr> (In my humble opinion) websites sometimes makes assumptions about 
+  how much their visitors know about a given topic or industry.</p>
+<p>By providing a plain text expansion besides the acronyms, myself and probably others, 
+  are less confused by the jargon. Thus improving usability and <abbr>a11y</abbr> (accessibility).</p>
 
 ```
